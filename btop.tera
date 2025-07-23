@@ -6,7 +6,7 @@ whiskers:
   filename: "themes/catppuccin_{{ flavor.identifier }}.theme"
 ---
 {%- set palette = flavor.colors -%}
-# Main background, empty for terminal default, need to be empty if you want transparent background
+# Main background
 theme[main_bg]="#{{ palette.base.hex }}"
 
 # Main text color

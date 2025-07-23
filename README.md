@@ -5,7 +5,6 @@
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
-
 <p align="center">
   <a href="https://github.com/catppuccin/btop/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/btop?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
   <a href="https://github.com/catppuccin/btop/issues"><img src="https://img.shields.io/github/issues/catppuccin/btop?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
@@ -49,6 +48,10 @@
 4. Launch Btop/Bpytop, press <kbd>Esc</kbd>, and select "Options".
 5. Select your flavor of choice!
 
+> [!TIP]
+> If you are using a transparent terminal background, set `theme_background = False` in the config file for
+> [btop](https://github.com/aristocratos/btop/blob/main/README.md#configurability) or
+> [bpytop](https://github.com/aristocratos/bpytop/blob/master/README.md#configurability).
 
 ## 💝 Thanks to
 
